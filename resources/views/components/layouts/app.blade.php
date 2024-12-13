@@ -31,7 +31,7 @@
     <meta content="Escuela de Posgrado UNU" name="author" />
 
     <!-- App favicon -->
-    <link rel="shortcut icon" href="{{ asset('files/imagenes/logo-epg.png') }}" />
+    <link rel="shortcut icon" href="{{ asset('files/imagenes/logo-unia.png') }}" />
 
     <!-- jsvectormap css -->
     <link href="{{ asset('assets/libs/jsvectormap/jsvectormap.min.css') }}" rel="stylesheet" type="text/css" />
@@ -103,10 +103,10 @@
                         <div class="navbar-brand-box horizontal-logo">
                             <a href="{{ route('inicio.index') }}" class="logo">
                                 <span class="logo-sm">
-                                    <img src="{{ asset('files/imagenes/logo-epg.png') }}" alt="" height="35" />
+                                    <img src="{{ asset('files/imagenes/logo-unia.png') }}" alt="" height="35" />
                                 </span>
                                 <span class="logo-lg">
-                                    <img src="{{ asset('files/imagenes/logo-epg.png') }}" alt="" height="35" />
+                                    <img src="{{ asset('files/imagenes/logo-unia.png') }}" alt="" height="35" />
                                 </span>
                             </a>
                         </div>
@@ -124,7 +124,7 @@
                         <!-- Name -->
                         <div class="d-flex align-items-center">
                             <span class="fs-4 text-muted ms-2 mt-1" style="font-weight: 500;">
-                                SIEPG Matricula
+                                SCI - UNIA
                             </span>
                         </div>
                     </div>
@@ -164,11 +164,13 @@
                 <!-- Dark Logo-->
                 <a href="{{ route('inicio.index') }}" class="logo">
                     <span class="logo-sm">
-                        <img src="{{ asset('files/imagenes/logo-epg.png') }}" alt="" height="35" />
+                        <img src="{{ asset('files/imagenes/logo-unia.png') }}" alt="" height="35" />
                     </span>
                     <span class="logo-lg">
-                        <img src="{{ asset('files/imagenes/logo-epg.png') }}" alt="" height="35" />
-                        <span class="text-white fs-2 fw-bold align-middle ms-1">EPG</span>
+                        <img src="{{ asset('files/imagenes/logo-unia.png') }}" alt="" height="35" />
+                        <span class="text-white fs-2 fw-bold align-middle ms-1">
+                            SCI - UNIA
+                        </span>
                     </span>
                 </a>
                 <button type="button" class="btn btn-sm p-0 fs-20 header-item float-end btn-vertical-sm-hover"

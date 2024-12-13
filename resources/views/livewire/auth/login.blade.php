@@ -25,7 +25,7 @@ use function Livewire\Volt\{state};
             >
                 <div class="text-center mb-4">
                     <img
-                        src="{{ asset('files/imagenes/logo-epg.png') }}"
+                        src="{{ asset('files/imagenes/logo-unia.png') }}"
                         alt="logo"
                         height="110"
                     />

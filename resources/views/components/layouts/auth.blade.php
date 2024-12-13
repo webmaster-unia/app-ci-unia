@@ -31,7 +31,7 @@
     <meta content="Escuela de Posgrado UNU" name="author" />
 
     <!-- App favicon -->
-    <link rel="shortcut icon" href="{{ asset('files/imagenes/logo-epg.png') }}" />
+    <link rel="shortcut icon" href="{{ asset('files/imagenes/logo-unia.png') }}" />
 
     <!-- Layout config Js -->
     <script src="{{ asset('assets/js/layout.js') }}"></script>
