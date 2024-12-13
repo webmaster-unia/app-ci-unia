@@ -22,13 +22,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ $title ?? 'SIEPG Matricula' }}</title>
+    <title>{{ $title ?? 'SCI - UNIA' }}</title>
 
     <meta
-        content="Sistema de Matricula de la Escuela de Posgrado de la Universidad Nacional de Ucayali"
+        content="Sistema de Control de Ingreso - Universidad Nacional Intercultural de la Amazonía"
         name="description"
     />
-    <meta content="Escuela de Posgrado UNU" name="author" />
+    <meta content="Universidad Nacional Intercultural de la Amazonía" name="author" />
 
     <!-- App favicon -->
     <link rel="shortcut icon" href="{{ asset('files/imagenes/logo-unia.png') }}" />
